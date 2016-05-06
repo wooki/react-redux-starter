@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-starter",
+  "description": "base starter project for react and redux projects",
+  "main": "index.js",
+  "authors": [
+    "Jim Rowe"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  }
+}
