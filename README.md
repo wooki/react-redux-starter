@@ -7,8 +7,8 @@ Simple starter project for building front-end using React, Redux.  Clone this re
 ```
 npm install
 npm start
-npm build-dev
-npm build-prod
+npm run-script build-dev
+npm run-script build-prod
 ```
 
 Enjoy.
